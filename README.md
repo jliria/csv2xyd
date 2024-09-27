@@ -17,6 +17,8 @@ Shapely 2.0.5
 
 •	Recommended hardware: 16 GB of RAM or more for handling large datasets.
 
+Sample data sets are available at: 
+
 File Menu
 1. Open Semi-Formatted CSV
 •	Use this option to open a CSV file with essential columns like species (genus and species), latitude, and longitude. Additional columns for higher taxonomic levels (e.g., phylum, class, order) are also supported.
