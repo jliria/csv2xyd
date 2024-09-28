@@ -17,7 +17,7 @@ Shapely 2.0.5
 
 •	Recommended hardware: 16 GB of RAM or more for handling large datasets.
 
-Sample data sets are available at: https://doi.org/10.5281/zenodo.13851938
+Sample data are available at: https://doi.org/10.5281/zenodo.13851938
 
 File Menu
 1. Open Semi-Formatted CSV
