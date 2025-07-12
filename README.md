@@ -15,6 +15,8 @@ NumPy 2.0.0
 GeoPandas 1.0.1 
 Shapely 2.0.5
 
+Additionally, a requirements.txt file has been included in the repository to facilitate installation and deployment.
+
 •	Recommended hardware: 16 GB of RAM or more for handling large datasets.
 
 Sample data are available at: https://doi.org/10.5281/zenodo.13851938
