@@ -1,5 +1,15 @@
 # csv2xyd
+ <img width="140" height="120" src="https://github.com/jliria/csv2xyd/blob/main/images/Icon%20csv2xyd.png">
+ 
 csv2xyd is a Python-based software designed to process large CSV files and convert them into XYD format, ideal for endemism analysis with NDM/vNDM. It provides advanced functionalities for preprocessing, filtering, and combining biodiversity data while offering spatial analysis capabilities.
+
+<p align="center">
+  <img width="760" height="720" src="https://github.com/jliria/csv2xyd/blob/main/images/figure1.JPG">
+</p>
+
+<p align="center">
+  <img width="760" height="720" src="https://github.com/jliria/csv2xyd/blob/main/images/figure2.JPG">
+</p>
 
 System Requirements:
 
