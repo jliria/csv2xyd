@@ -5,7 +5,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.12.4%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15870575.svg)](https://doi.org/10.5281/zenodo.15870575)
-[![Journal](https://img.shields.io/badge/Journal-JORS%20(2025)-green)](https://doi.org/10.5334/jors.XXXX) 
+[![Journal](https://img.shields.io/badge/Journal-JORS%20(2025)-green)](https://doi.org/10.5334/jors.538) 
 
 `csv2xyd` is a user-friendly, Python-based software featuring a Graphical User Interface (GUI) designed to streamline the preprocessing, filtering, and conversion of large biodiversity distribution datasets from standard tabular formats (`.csv`) into the specific matrix formats required for quantitative endemism analysis, such as **XYD** and **TNT** formats used by **NDM/vNDM**.
 
@@ -31,6 +31,20 @@ Biodiversity repositories (e.g., GBIF) often provide massive datasets containing
 - **High-Performance Scaling:** Powered by `Dask` and `Pandas` for optimized out-of-core memory management, capable of handling hundreds of thousands of rows smoothly.
 - **Spatial Validation:** In-app mapping and geographic data validation built over `GeoPandas` and `Folium`.
 - **Ready-to-Use Outputs:** Directly exports clean cross-tabulated tables, standard `.xyd` spatial point matrices, and `.tnt` files fully compatible with NDM/vNDM default limitations.
+
+---
+
+## Video Tutorial
+
+For a comprehensive, step-by-step demonstration of the software's graphical user interface (GUI), data cleaning pipelines, and matrix formatting workflows, please watch the official video tutorial below:
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=xdn38tZJmIQ" target="_blank">
+    <img src="https://img.youtube.com/vi/xdn38tZJmIQ/maxresdefault.jpg" alt="csv2xyd Video Tutorial" width="600" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  </a>
+  <br>
+  <b>📺 Click above to watch the csv2xyd walkthrough on YouTube</b>
+</p>
 
 ---
 
@@ -83,7 +97,7 @@ The example data include input CSV files and all corresponding output files (XYD
 If you use `csv2xyd` in your biogeographical, ecological, or evolutionary research, please cite the original software publication:
 
 ```text
-Liria, J., & Soto-Vivas, A. (2025). Csv2xyd: A Python Software for Processing Large Biodiversity Datasets for Endemism Analysis. Journal of Open Research Software, 13(1), 4. [https://doi.org/10.5334/jors.538](https://doi.org/10.5334/jors.538)
+Liria, J., & Soto-Vivas, A. (2025). Csv2xyd: A Python Software for Processing Large Biodiversity Datasets for Endemism Analysis. Journal of Open Research Software, 13(1), 4. https://doi.org/10.5334/jors.538
 ```
 
 ---
@@ -91,7 +105,7 @@ Liria, J., & Soto-Vivas, A. (2025). Csv2xyd: A Python Software for Processing La
 ### Authors
 
 * **Jonathan Liria Salazar** - *Universidad Regional Amazónica Ikiam, Tena, Ecuador.*
-* **Ana Y. Soto-Vivas**
+* **Ana Y. Soto-Vivas** - *Universidad Central del Ecuador, Quito, Ecuador.*
 
 **Neotropical Cladistic Biogeography Computing Lab (NCBC-Lab)**  
 An academic initiative focused on developing high-performance computational tools for complex spatial analysis, biogeography, and systematic biology in the Neotropics.
